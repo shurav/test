@@ -9,3 +9,4 @@ aList = [5, "a", 2.2]
 
 for i in aList:
   print(2*i)
+print('changed')
